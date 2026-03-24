@@ -1,15 +1,15 @@
 ﻿{
     "channel":  "stable",
-    "version":  "0.1.0",
+    "version":  "0.1.2.0b",
     "packageType":  "zip",
     "packageUrl":  "https://raw.githubusercontent.com/AdamTrueSpeed/Public-Update-Repo/main/releases/ProjectSeeley-Offline-Package.zip",
     "installerUrl":  "https://raw.githubusercontent.com/AdamTrueSpeed/Public-Update-Repo/main/releases/ProjectSeeley-Local-Installer.exe",
     "testDataUrl":  "https://raw.githubusercontent.com/AdamTrueSpeed/Public-Update-Repo/main/data/test-mode-seed.json",
     "testDataVersion":  "2026-03-22.1",
-    "sha256":  "1f4d20727b11fb9f41594e2ef10d2f924b884c99841cf8a0aaeea12eb71e5e9e",
+    "sha256":  "a945cb8cff598aa0ff35d37e568404121586ea956907056332a742ea86e79374",
     "minimumSupportedVersion":  "0.1.0",
     "notes":  [
-                  "Publish this manifest and the matching offline package zip to the public update repository.",
-                  "The local launcher checks this manifest before starting the app."
+                  "The local launcher checks this manifest before starting the app.",
+                  "This package contains the full Project Seeley local install payload."
               ]
 }
